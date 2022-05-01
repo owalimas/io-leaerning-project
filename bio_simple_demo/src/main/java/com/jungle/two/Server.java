@@ -1,4 +1,4 @@
-package com.jungle.bio.one.two;
+package com.jungle.two;
 
 import lombok.extern.slf4j.Slf4j;
 

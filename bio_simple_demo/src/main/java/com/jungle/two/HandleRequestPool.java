@@ -1,4 +1,4 @@
-package com.jungle.bio.one.two;
+package com.jungle.two;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ExecutorService;
