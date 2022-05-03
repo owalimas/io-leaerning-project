@@ -11,6 +11,7 @@
     <modules>
         <module>bio_chat_demo</module>
         <module>bio_simple_demo</module>
+        <module>nio_simple_demo</module>
     </modules>
 
     <properties>

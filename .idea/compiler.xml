@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bio_simple_demo" />
         <module name="bio_chat_demo" />
+        <module name="nio_simple_demo" />
       </profile>
     </annotationProcessing>
   </component>
